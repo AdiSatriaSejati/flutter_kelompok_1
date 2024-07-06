@@ -4,10 +4,6 @@
 
 Project ini adalah aplikasi Flutter yang dikembangkan oleh Kelompok 1. Aplikasi ini mencakup berbagai fitur seperti pengaturan, animasi, dan transisi kustom.
 
-## Deskripsi
-
-Aplikasi ini dirancang untuk memberikan pengalaman pengguna yang interaktif dan menarik dengan menggunakan berbagai widget dan animasi. Aplikasi ini juga mendukung penyimpanan pengaturan menggunakan `SharedPreferences`.
-
 ## Fitur
 
 - Pengaturan suara dan musik
