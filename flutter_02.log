@@ -1,0 +1,64 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+WipError: WipError -32000 Cannot find context with specified id
+
+```
+```
+
+## flutter doctor
+
+```
+[32m[✓][39m Flutter (Channel stable, 3.22.2, on Microsoft Windows [Version 10.0.22631.3737], locale jv-Latn-ID)
+    [32m•[39m Flutter version 3.22.2 on channel stable at C:\flutter_windows_3.22.2-stable\flutter
+    [32m•[39m Upstream repository https://github.com/flutter/flutter.git
+    [32m•[39m Framework revision 761747bfc5 (4 weeks ago), 2024-06-05 22:15:13 +0200
+    [32m•[39m Engine revision edd8546116
+    [32m•[39m Dart version 3.4.3
+    [32m•[39m DevTools version 2.34.3
+
+[32m[✓][39m Windows Version (Installed version of Windows is version 10 or higher)
+
+[32m[✓][39m Android toolchain - develop for Android devices (Android SDK version 35.0.0)
+    [32m•[39m Android SDK at C:\Users\Admin\AppData\Local\Android\sdk
+    [32m•[39m Platform android-35, build-tools 35.0.0
+    [32m•[39m Java binary at: C:\Program Files\Android\Android Studio\jbr\bin\java
+    [32m•[39m Java version OpenJDK Runtime Environment (build 17.0.10+0--11609105)
+    [32m•[39m All Android licenses accepted.
+
+[32m[✓][39m Chrome - develop for the web
+    [32m•[39m Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[31m[✗][39m Visual Studio - develop Windows apps
+    [31m✗[39m Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[32m[✓][39m Android Studio (version 2024.1)
+    [32m•[39m Android Studio at C:\Program Files\Android\Android Studio
+    [32m•[39m Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    [32m•[39m Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    [32m•[39m Java version OpenJDK Runtime Environment (build 17.0.10+0--11609105)
+
+[32m[✓][39m VS Code (version 1.90.2)
+    [32m•[39m VS Code at C:\Users\Admin\AppData\Local\Programs\Microsoft VS Code
+    [32m•[39m Flutter extension version 3.90.0
+
+[32m[✓][39m Connected device (3 available)
+    [32m•[39m Windows (desktop) • windows • windows-x64    • Microsoft Windows [Version 10.0.22631.3737]
+    [32m•[39m Chrome (web)      • chrome  • web-javascript • Google Chrome 126.0.6478.127
+    [32m•[39m Edge (web)        • edge    • web-javascript • Microsoft Edge 100.0.1185.36 (unsupported)
+
+[32m[✓][39m Network resources
+    [32m•[39m All expected network resources are available.
+
+[33m![39m Doctor found issues in 1 category.
+```

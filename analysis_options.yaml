@@ -1,0 +1,9 @@
+include: package:analysis_defaults/flutter.yaml
+
+linter:
+  rules:
+    # Hapus atau paksakan aturan serat dengan menambahkan baris seperti berikut ini.
+    # Lint di bawah ini dinonaktifkan untuk membuat segalanya lebih lancar di awal
+    # pengembangan. Pertimbangkan untuk mengaktifkannya setelah pengembangan lebih lanjut.
+    prefer_const_constructors: false  # Sering membuat kode yang sama
+    prefer_single_quotes: false  # Sering membuat kode yang sama
